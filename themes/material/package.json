@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "hexo-material",
+        "scope": null,
+        "escapedName": "hexo-material",
+        "name": "hexo-material",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\myblog"
+    ]
+  ],
+  "_from": "hexo-material@latest",
+  "_id": "hexo-material@1.4.0",
+  "_inCache": true,
+  "_location": "/hexo-material",
+  "_nodeVersion": "7.3.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/hexo-material-1.4.0.tgz_1496317155795_0.37634855695068836"
+  },
+  "_npmUser": {
+    "name": "viosey",
+    "email": "imviosey@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "hexo-material",
+    "scope": null,
+    "escapedName": "hexo-material",
+    "name": "hexo-material",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-material/-/hexo-material-1.4.0.tgz",
+  "_shasum": "98e85958b52a7652b845bf044a49698788c27e10",
+  "_shrinkwrap": null,
+  "_spec": "hexo-material",
+  "_where": "D:\\myblog",
+  "author": {
+    "name": "Viosey"
+  },
+  "bugs": {
+    "url": "https://github.com/viosey/hexo-theme-material/issues"
+  },
+  "dependencies": {},
+  "description": "Material Design Theme for Hexo",
+  "devDependencies": {
+    "ejs-lint": "^0.2.0",
+    "eslint": "^3.14.0",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "sass-lint": "^1.10.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "98e85958b52a7652b845bf044a49698788c27e10",
+    "tarball": "https://registry.npmjs.org/hexo-material/-/hexo-material-1.4.0.tgz"
+  },
+  "gitHead": "1ac6f1bffb3d53c8974a1aa6198551beccec52cd",
+  "homepage": "https://github.com/viosey/hexo-theme-material#readme",
+  "keywords": [
+    "hexo",
+    "theme",
+    "material"
+  ],
+  "license": "GPL-3.0",
+  "maintainers": [
+    {
+      "name": "viosey",
+      "email": "imviosey@gmail.com"
+    }
+  ],
+  "name": "hexo-material",
+  "optionalDependencies": {},
+  "readme": "![](https://qiniu.viosey.com/img/Material-Phone-Render.png)\n\n# Material 原质\n\n[Material Theme](https://material.viosey.com)\n\n>Nature, Source | 原之质，物之渊\n\n## Contents 目录\n\n- [General 概括](#general-概括)\n- [Demo 演示](#demo-演示)\n- [Quick start 快速开始](#quick-start-快速开始)\n- [Docs 文档](#docs-文档)\n- [Contributing 贡献](#contributing-贡献)\n- [License 许可证](#license-许可证)\n- [Support 支持](#support-支持)\n- [Render 渲染](#render-渲染)\n- [Changelog 开发日志](https://github.com/viosey/hexo-theme-material/releases)\n\n## General 概括\n\n[![Version](https://img.shields.io/badge/version-1.4.0-green.svg?style=flat-square)]()\n[![Author](https://img.shields.io/badge/author-Viosey-blue.svg?style=flat-square)](https://viosey.com)\n\n[![Hexo](https://img.shields.io/badge/hexo-3.0+-green.svg?style=flat-square)](https://hexo.io)\n[![node.js](https://img.shields.io/badge/node.js-6.0%2B-green.svg?style=flat-square)](https://nodejs.org/)\n\n[![Build Status](https://img.shields.io/travis/viosey/hexo-theme-material.svg?style=flat-square)](https://travis-ci.org/viosey/hexo-theme-material)\n[![npm](https://img.shields.io/npm/dt/hexo-material.svg?style=flat-square)](https://www.npmjs.com/package/hexo-material)\n\n## Demo 演示\n\n[Viosey's Blog](https://blog.viosey.com)\n\n## Quick start 快速开始\n\n[Install Material](https://material.viosey.com/en/start/#install-material)\n\n[安装 Material](https://material.viosey.com/start/#install-material)\n\n\n## Docs 文档\n\n[Material Theme Docs](https://material.viosey.com/en/)\n\n[Material 主题文档](https://material.viosey.com)\n\n>[Docs Markdown Files](https://github.com/viosey/material-theme-docs)\n\n\n## Contributing 贡献\n\nAll kinds of contributions (enhancements, new features, documentation & code improvements, issues & bugs reporting) are welcome.\n\nBefore you start your contributing, please read the [Contributing Rules Wiki](https://github.com/viosey/hexo-theme-material/wiki) first.\n\n欢迎各种形式的贡献，包括但不限于优化，添加功能，文档 & 代码的改进，问题和 bugs 的报告。期待您的 `Pull Request`。\n\n在参与贡献之前，请阅读[项目贡献 Wiki](https://github.com/viosey/hexo-theme-material/wiki)，了解如何为 Material 主题贡献。\n\n\n## License 许可证\n\n[![license](https://img.shields.io/github/license/viosey/hexo-theme-material.svg?style=flat-square)](https://github.com/viosey/hexo-theme-material/blob/master/LICENSE)\n\nOpen sourced under the GPL v3.0 license.\n\n根据 GPL V3.0 许可证开源。\n\n## Support 支持\n![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=V1VkWmJMRjJqcHBjN1BIVFRlNzExM05XUk5hemcydEpZTHRBdGd5V244ST0tLTlvNklDT1NuVXFDaTh0RDBnQ3RCdXc9PQ==--c986c45d7c10a3264f46b414944d6393ba74ea22%)\n\nProudly using BrowserStack.\n\n[![](https://qiniu.viosey.com/img/browserstack_logo.png)](https://www.browserstack.com/)\n\n>**BrowserStack** is a cloud-based cross-browser testing tool that enables developers to test their websites across various browsers on different operating systems and mobile devices, without requiring users to install virtual machines, devices or emulators.\n\n## Render 渲染\n\n![](https://qiniu.viosey.com/img/Materia-overview-tiny.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viosey/hexo-theme-material.git"
+  },
+  "scripts": {
+    "lint": "npm run setup && bash lint.sh",
+    "setup": "npm cache clean && npm install",
+    "test": "echo \"Error: no test specified\""
+  },
+  "version": "1.4.0"
+}
