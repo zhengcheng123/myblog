@@ -5,8 +5,8 @@
 # Head info
 head:
     favicon: "/img/logo.png"
-    high_res_favicon: "/img/person2.png"
-    apple_touch_icon: "/img/person2.png"
+    high_res_favicon: "/img/person.png"
+    apple_touch_icon: "/img/person.png"
     keywords:
     site_verification:
         google:
@@ -71,7 +71,7 @@ background:
 
 # Images Settings
 img:
-    logo: "/img/logo.png"
+    logo: "/img/logo_2.png"
     avatar: "/img/person.png"
     daily_pic: "/img/daily_pic.png"
     sidebar_header: "/img/sidebar1.gif"
@@ -203,8 +203,8 @@ materialcdn:
 comment:
     use: changyan
     shortname: # duoshuo or disqus shortname
-    changyan_appid:
-    changyan_conf:
+    changyan_appid: cytaAhFlA
+    changyan_conf: prod_42580b213cdd446c7e4eddbe8f0b79e3
     changyan_thread_key_type: path
     gentie_productKey:
 
